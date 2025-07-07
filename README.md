@@ -51,21 +51,19 @@
 
 
 ## com.ulbra.storebooks
+- data
+-  local (Room: entities, dao, database)
+-  mapper (conversores entre Entity <-> Model)
+-  model (StoreBook)
 
-├── data
-│   ├── local (Room: entities, dao, database)
-│   ├── mapper (conversores entre Entity <-> Model)
-│   ├── model (StoreBook)
-│
-├── ui
-│   ├── fragments (FormBookFragment, ListBookFragment)
-│   ├── adapter (RecyclerView Adapter + ViewHolder)
-│   ├── viewmodels (BookViewModel)
+- ui
+-  fragments (FormBookFragment, ListBookFragment)
+-  adapter (RecyclerView Adapter + ViewHolder)
+-  iewmodels (BookViewModel)
 
 
 💡 Próximas melhorias
- Filtro por status (Lido, Lendo, Não lido)
-
+- Filtro por status (Lido, Lendo, Não lido)
 -  Tela de favoritos
 - Exportar backup dos livros
 - Dark mode
