@@ -49,8 +49,9 @@
       git clone https://github.com/Cicera1987/StoreBooks.git
   ````
 
-com.ulbra.storebooks
-│
+
+## com.ulbra.storebooks
+
 ├── data
 │   ├── local (Room: entities, dao, database)
 │   ├── mapper (conversores entre Entity <-> Model)
