@@ -39,8 +39,11 @@
 
 📱 A interface foi projetada para ser simples e intuitiva. Veja abaixo um exemplo da tela inicial:
 
->![Imagem do WhatsApp de 2025-07-07 à(s) 11 00 14_c9a1e9af](https://github.com/user-attachments/assets/c329e1d0-6e47-41bd-b709-4009f1a8e856)
->![Imagem do WhatsApp de 2025-07-07 à(s) 11 00 14_0ce915a2](https://github.com/user-attachments/assets/b48551a0-1f65-4181-b47f-48694803b37c)
+>![image](https://github.com/user-attachments/assets/3f00c83c-89a6-4b14-bdcb-30e39a9c94c6) ![image](https://github.com/user-attachments/assets/71dcd767-96a3-43c0-92c2-013b84ceb5cd) ![image](https://github.com/user-attachments/assets/9fab9042-427d-43f0-bbf6-b32e86782f7d) ![image](https://github.com/user-attachments/assets/754c2618-dc02-45e9-b4eb-e2f049422993) ![image](https://github.com/user-attachments/assets/906a73ca-8a8d-46f5-81e9-a46ff5d0d25f)
+
+
+
+
 
 
 
