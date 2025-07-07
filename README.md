@@ -39,7 +39,8 @@
 
 📱 A interface foi projetada para ser simples e intuitiva. Veja abaixo um exemplo da tela inicial:
 
->![image](https://github.com/user-attachments/assets/3f00c83c-89a6-4b14-bdcb-30e39a9c94c6) ![image](https://github.com/user-attachments/assets/71dcd767-96a3-43c0-92c2-013b84ceb5cd) ![image](https://github.com/user-attachments/assets/9fab9042-427d-43f0-bbf6-b32e86782f7d) ![image](https://github.com/user-attachments/assets/754c2618-dc02-45e9-b4eb-e2f049422993) ![image](https://github.com/user-attachments/assets/906a73ca-8a8d-46f5-81e9-a46ff5d0d25f)
+>![image](https://github.com/user-attachments/assets/3f00c83c-89a6-4b14-bdcb-30e39a9c94c6) ![image](https://github.com/user-attachments/assets/adea15f1-34e5-4951-89d4-0c225f91dfbf)
+ ![image](https://github.com/user-attachments/assets/9fab9042-427d-43f0-bbf6-b32e86782f7d) ![image](https://github.com/user-attachments/assets/754c2618-dc02-45e9-b4eb-e2f049422993) ![image](https://github.com/user-attachments/assets/906a73ca-8a8d-46f5-81e9-a46ff5d0d25f)
 
 
 
