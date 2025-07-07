@@ -39,7 +39,10 @@
 
 📱 A interface foi projetada para ser simples e intuitiva. Veja abaixo um exemplo da tela inicial:
 
-> _Você pode colocar aqui prints depois de subir screenshots na aba `Issues` ou `Wiki`, ou usar links externos._
+>![Imagem do WhatsApp de 2025-07-07 à(s) 11 00 14_c9a1e9af](https://github.com/user-attachments/assets/c329e1d0-6e47-41bd-b709-4009f1a8e856)
+>![Imagem do WhatsApp de 2025-07-07 à(s) 11 00 14_0ce915a2](https://github.com/user-attachments/assets/b48551a0-1f65-4181-b47f-48694803b37c)
+
+
 
 ---
 
