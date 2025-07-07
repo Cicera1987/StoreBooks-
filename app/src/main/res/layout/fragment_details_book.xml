@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="storebook"
+            type="com.ulbra.storebooks.data.StoreBook" />
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="24dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/detailTitle"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@{storebook.title}" />
+
+                <androidx.appcompat.widget.AppCompatImageButton
+                    android:id="@+id/detailFavoriteToggle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/favorite_toggle"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:tint="@color/gray"
+                    android:src="@drawable/ic_star_outline"
+                    android:layout_marginStart="8dp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/detailAuthor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text='@{"por " + storebook.author}' />
+
+            <TextView
+                android:id="@+id/detailYear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text='@{"Publicado em " + storebook.yearPublication}' />
+
+            <TextView
+                android:id="@+id/detailDescription"
+                android:layout_marginTop="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@{storebook.description}"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="16dp"
+                />
+
+            <Spinner
+                android:id="@+id/detailStatusSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/spinner_border"
+                android:prompt="@string/select_status"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</layout>
