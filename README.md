@@ -15,6 +15,7 @@
 
 - ✅ Listagem de livros com título, autor e status (📕 Não lido, 📖 Lendo, ✅ Lido)
 - ✍️ Cadastro e edição de livros
+- 🖼️ Tela de detalhes, na qual posso alterar status e favoritar um livro
 - 🗑️ Exclusão direta pelo item
 - ⭐ Marcar como favorito
 - 🔍 Busca por nome do livro
@@ -61,12 +62,14 @@
 -  adapter (RecyclerView Adapter + ViewHolder)
 -  iewmodels (BookViewModel)
 
+---
 
 💡 Próximas melhorias
 - Filtro por status (Lido, Lendo, Não lido)
 -  Tela de favoritos
 - Exportar backup dos livros
 - Dark mode
+---
 
-👩‍💻 Desenvolvido por
-Cícera Ribeiuro
+👩‍💻 Desenvolvido por:
+- Cícera Ribeiuro
